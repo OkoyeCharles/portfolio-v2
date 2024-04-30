@@ -12,7 +12,7 @@ export default function Document() {
           `}
         </Script>
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-KWMTCNP0H3"
+          src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_TAG_ID}`}
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -21,7 +21,7 @@ export default function Document() {
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             
-            gtag('config', 'G-KWMTCNP0H3');
+            gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_TAG_ID}');
           `}
         </Script>
       </Head>

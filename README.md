@@ -3,14 +3,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://okoyecharles.com/">
+  <a href="https://okoyecharles-v2.vercel.app">
     <img src="public/apple-icons/icon-256x256.png" alt="portfolio-logo" height="100">
   </a>
 
 
   <h5 align="center">  
     <br />
-    <a href="https://okoyecharles.com/" target="_blank">View Live</a>
+    <a href="https://okoyecharles-v2.vercel.app" target="_blank">View Live</a>
     ·
     <a href="https://github.com/OkoyeCharles/portfolio-v2/issues/new" target="_blank">Report Bug</a>
     ·
@@ -57,7 +57,7 @@ This website serves as a collection of my most recent, expertly crafted, and inn
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live link
-Here is the [live link](https://okoyecharles.com/) of my portfolio.
+Here is the [live link](https://okoyecharles-v2.vercel.app) of my portfolio.
 
 ### Built With
 
